@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-# Heading kay
+# This is a heading
 [example](https://example.com)
 
